@@ -11,6 +11,7 @@ namespace HelloWorld3
             Console.WriteLine("Katherine");
             Console.WriteLine("Brett");
             Console.WriteLine("Rajat");
+			Console.WriteLine("Steve");
             Console.ReadKey();
         }
     }
