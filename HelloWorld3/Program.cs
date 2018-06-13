@@ -8,6 +8,7 @@ namespace HelloWorld3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Reena");
+            Console.WriteLine("Katherine");
             Console.ReadKey();
         }
     }
